@@ -12,4 +12,4 @@ Version: 1.7.2
 Author URI: http://ma.tt/
 */
 
-echo 'its mye hello file';
+echo 'its mye hello file. Small fix here';
